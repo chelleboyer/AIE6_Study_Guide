@@ -70,7 +70,7 @@ Each paper summary includes:
 - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](./Relevant_Papers/WizardLM_Empowering_Large_Language_Models_to_Follow_Complex_Instructions.md)
 
 ### Personal Experiences
-- [From Control Flow to Chain of Thought: My First 7 Weeks in AI Engineering Bootcamp](./Relevant_Papers/From_Control_Flow_to_Chain_of_Thought__My_First_7_Weeks_in_AI_Engineering_Bootcamp.md)
+- [From Control Flow to Chain of Thought: My First 7 Weeks in AI Engineering Bootcamp](From_Control_Flow_to_Chain_of_Thought__My_First_7_Weeks_in_AI_Engineering_Bootcamp.md)
 
 ## 🚀 How to Contribute
 
